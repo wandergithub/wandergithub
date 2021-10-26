@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wander Gonzalez
 - 👀 I’m interested in Python and programming.
 - 🌱 I’m currently learning Python, C, and a lot of things.
-- 💞️ I’m looking to collaborate on Python, Verilog proyects.
+- 💞️ I’m looking to collaborate on Python, Verilog and embbeded system programming like STM on C proyects.
 - 📫 How to reach me wandergonzalez0@hotmail.com
 - IG @wander_csw
 
