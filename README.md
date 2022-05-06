@@ -1,12 +1,13 @@
-<h2 align="center">👋  Hi, I’m Wander Gonzalez Full-Stack web Developer.</h2>
+<h2 align="center">👋  Hi, I’m Wander Gonzalez, Full-Stack web Developer.</h2>
 
-- 👀 I’m interested in web programming and all computer posibilities.
-- 🌱 Currently on Microverse program learning Web development.
-- 💞️ I’m looking to collaborate on Web programming or (Python, Verilog and embbeded system programming like STM on C proyects.
-- 📫 Looking for new oportunities wandergonzalez0@hotmail.com
-- Location: Dominican Republic, Santo domingo.
+-  I’m interested in web programming and all computer science possibilities. 👀
+-  Currently enrolled in Microverse a full-stack remote Bootcamp that teaches developers to work with pair programming methodologies as well as simulate real-world environments.🌱
+- I would love to collaborate with you on Web programming or (Python, Verilog, and embedded system programming like STM on C projects) 💞️ .
+- Looking for new opportunities, contact me at wandergonzalez0@hotmail.com 📫 
+- Location: the Dominican Republic, Santo Domingo.
+- Did you see something that can be improved? ⬆️ Please hit me up and Allow me the pleasure of hearing from you.
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code><code><img height="20" src="https://img.icons8.com/color/344/css3.png"></code><code><img height="20" src="https://img.icons8.com/color/344/html-5--v1.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></code>
 <!---
