@@ -6,7 +6,17 @@
 -  I’m interested in web programming and all computer science possibilities. 👀
 - I would love to collaborate with you on Web programming or (Python, Verilog, and embedded system programming like STM on C projects) 💞️ .
 - Looking for new opportunities, contact me at [![Gmail](https://img.shields.io/badge/-wandergonzalez0@hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://wandergonzalez0@hotmail.com)](mailto://wandergonzalez0@hotmail.com)&nbsp; 📫 
-- Follow me on social medias: [![Linkedin Badge](https://img.shields.io/badge/-Wander%20Gonzalez%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)](https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@wanderklk1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderklk1)](https://twitter.com/wanderklk1)&nbsp;
+- Follow me on social medias: 
+    
+    [![Linkedin Badge](https://img.shields.io/badge/-Wander%20Gonzalez%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)](https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)&nbsp;
+    
+    [![Twitter Badge](https://img.shields.io/badge/-@wanderklk1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderklk1)](https://twitter.com/wanderklk1)&nbsp;
+- I code for fun:
+
+    [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/wandergonzalez0)](https://www.hackerrank.com/wandergonzalez0)&nbsp;
+   
+   [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
+    
 
 
 <h3>Languages and tools:</h3>
