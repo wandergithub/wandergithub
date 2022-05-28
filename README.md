@@ -1,10 +1,13 @@
-<h2 align="center">👋  Hi, I’m Wander Gonzalez, Full-Stack web Developer.</h2>
+<h2 align="center">👋  Hi, I’m Wander</h2>
+<img src="https://crehana-blog.imgix.net/media/filer_public/65/dd/65ddbcaa-c2c8-42a1-bf39-c497b76b7025/sirve-github-cover.jpg" alt="Cover image" width="100%" height="75%">
 
-<p align="justify"> Hi, my name is Wander, I’m a full-stack web development student at Microverse, a full-stack remote Bootcamp that teaches developers to work. With pair programming methodologies and simulating real-world environments throughout team projects and professional skills activities.</p>
+<p align="justify"> Hi, my name is Wander Gonzalez. I’m a full-stack web development student at Microverse, a full-stack remote Bootcamp that teaches developers to work. With pair programming methodologies and simulating real-world environments throughout team projects and professional skills activities.</p>
 
 -  I’m interested in web programming and all computer science possibilities. 👀
 - I would love to collaborate with you on Web programming or (Python, Verilog, and embedded system programming like STM on C projects) 💞️ .
-- Looking for new opportunities, contact me at wandergonzalez0@hotmail.com 📫 
+- Looking for new opportunities, contact me at [![Gmail](https://img.shields.io/badge/-wandergonzalez0@hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://wandergonzalez0@hotmail.com)](mailto://wandergonzalez0@hotmail.com)&nbsp; 📫 
+- Follow me on social medias: [![Linkedin Badge](https://img.shields.io/badge/-Wander%20Gonzalez%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)](https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@wanderklk1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderklk1)](https://twitter.com/wanderklk1)&nbsp;
+
 
 <h3>Languages and tools:</h3>
 
