@@ -1,5 +1,5 @@
 <h2 align="center">👋  Hi, I’m Wander</h2>
-<img src="https://crehana-blog.imgix.net/media/filer_public/65/dd/65ddbcaa-c2c8-42a1-bf39-c497b76b7025/sirve-github-cover.jpg" alt="Cover image" width="100%" height="75%">
+<img src="https://user-images.githubusercontent.com/55507343/170900635-8ded6599-485f-48c7-8e94-2849d8d005a8.png" alt="Cover image" width="100%" height="75%">
 
 <p align="justify"> Hi, my name is Wander Gonzalez. I’m a full-stack web development student at Microverse, a full-stack remote Bootcamp that teaches developers to work. With pair programming methodologies and simulating real-world environments throughout team projects and professional skills activities.</p>
 
