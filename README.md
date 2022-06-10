@@ -8,7 +8,7 @@
 - Looking for new opportunities, contact me at [![Gmail](https://img.shields.io/badge/-wandergonzalez0@hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://wandergonzalez0@hotmail.com)](mailto://wandergonzalez0@hotmail.com)&nbsp; 📫 
 - Follow me on social medias: 
     
-    [![Linkedin Badge](https://img.shields.io/badge/-Wander%20Gonzalez%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)](https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)&nbsp;
+    [![Linkedin Badge](https://img.shields.io/badge/-Wander%20Gonzalez%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-gonzalez/)](https://www.linkedin.com/in/wander-gonzalez/)&nbsp;
     
     [![Twitter Badge](https://img.shields.io/badge/-@wanderklk1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderklk1)](https://twitter.com/wanderklk1)&nbsp;
 - I code for fun:
