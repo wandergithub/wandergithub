@@ -25,14 +25,14 @@
 <br>
 <br>
 
-<h3>Personal Stats:</h3>
+<p align="center">&nbsp;
+ 
+ | Stats | Most used languages |
+ | ------ | ------ |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight" alt="wandergithub" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandergithub&show_icons=true&theme=tokyonight&layout=compact" alt="wandergithub" width="410"/> |
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandergithub&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Wander github stats](https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
-
-
-
+---
 
 <!---
 wandergithub/wandergithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
