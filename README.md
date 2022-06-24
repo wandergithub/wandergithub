@@ -13,11 +13,13 @@
     [![Twitter Badge](https://img.shields.io/badge/-@wanderklk1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderklk1)](https://twitter.com/wanderklk1)&nbsp;
 - I code for fun:
 
+   [![CodeWars Badge](https://www.codewars.com/users/wandergithub/badges/large)](https://www.codewars.com/users/wandergithub)&nbsp;
+
     [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/wandergonzalez0)](https://www.hackerrank.com/wandergonzalez0)&nbsp;
    
    [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
-    
-
+   
+   
 
 <h3>Languages and tools:</h3>
 
