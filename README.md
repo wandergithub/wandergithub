@@ -13,13 +13,16 @@
     [![Twitter Badge](https://img.shields.io/badge/-@wanderklk1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderklk1)](https://twitter.com/wanderklk1)&nbsp;
 - I code for fun:
 
-   [![CodeWars Badge](https://www.codewars.com/users/wandergithub/badges/large)](https://www.codewars.com/users/wandergithub)&nbsp;
+    [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
+
+    [![CodeWars Badge](https://www.codewars.com/users/wandergithub/badges/micro)](https://www.codewars.com/users/wandergithub)&nbsp;
 
     [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/wandergonzalez0)](https://www.hackerrank.com/wandergonzalez0)&nbsp;
    
-   [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
-   
-   
+   [![wakatime](https://wakatime.com/badge/user/a2b04daa-b55e-4527-b965-5f236b68f9d1.svg)](https://wakatime.com/@a2b04daa-b55e-4527-b965-5f236b68f9d1)
+    
+    [![wakatime Badge](https://img.shields.io/badge/-Wakatime%20Dashboard-black?style=flat-square&logo=Wakatime&logoColor=white&link=https://wakatime.com/@wandergithub)](https://wakatime.com/@wandergithub)&nbsp;
+    
 
 <h3>Languages and tools:</h3>
 
@@ -30,7 +33,7 @@
  
  | Stats | Most used languages |
  | ------ | ------ |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight" alt="wandergithub" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandergithub&show_icons=true&theme=tokyonight&layout=compact" alt="wandergithub" width="410"/> |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight" alt="wandergithub" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandergithub&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" alt="wandergithub" width="410"/> |
 </p>
 
 ---
