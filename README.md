@@ -33,7 +33,7 @@
  
  | Stats | Most used languages |
  | ------ | ------ |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight" alt="wandergithub" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandergithub&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" alt="wandergithub" width="410"/> |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight" alt="wandergithub" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandergithub&show_icons=true&theme=tokyonight&layout=compact&langs_count=15" alt="wandergithub" width="410"/> |
 </p>
 
 ---
