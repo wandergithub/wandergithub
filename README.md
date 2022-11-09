@@ -15,9 +15,6 @@
 
     [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
 
-    [![CodeWars Badge](https://www.codewars.com/users/wandergithub/badges/micro)](https://www.codewars.com/users/wandergithub)&nbsp;
-
-    [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/wandergonzalez0)](https://www.hackerrank.com/wandergonzalez0)&nbsp;
    
    [![wakatime](https://wakatime.com/badge/user/a2b04daa-b55e-4527-b965-5f236b68f9d1.svg)](https://wakatime.com/@a2b04daa-b55e-4527-b965-5f236b68f9d1)
     
