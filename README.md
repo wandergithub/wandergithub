@@ -14,11 +14,6 @@
 - I code for fun:
 
     [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
-
-   
-   [![wakatime](https://wakatime.com/badge/user/a2b04daa-b55e-4527-b965-5f236b68f9d1.svg)](https://wakatime.com/@a2b04daa-b55e-4527-b965-5f236b68f9d1)
-    
-    [![wakatime Badge](https://img.shields.io/badge/-Wakatime%20Dashboard-black?style=flat-square&logo=Wakatime&logoColor=white&link=https://wakatime.com/@wandergithub)](https://wakatime.com/@wandergithub)&nbsp;
     
 
 <h3>Languages and tools:</h3>
