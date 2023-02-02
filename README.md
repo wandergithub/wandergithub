@@ -20,7 +20,7 @@
     
 </div>
 
-&nbsp;<h3 align="center">*I am practising on:*</h3>
+&nbsp;<h3 align="center">*I am practicing on:*</h3>
 
 <div align="center">
     
@@ -28,7 +28,7 @@
     
 </div>
 
-&nbsp;<h3 align="center">*Languagues and tools:*</h3>
+&nbsp;<h3 align="center">*Languages and tools:*</h3>
 
 <div align="center">
     <img alt="React.js" height="45px" src="assets/react.svg">
@@ -46,7 +46,7 @@
 <br>
 
 
-&nbsp;<h3 align="center">*Github stats:*</h3>
+&nbsp;<h3 align="center">*GitHub stats:*</h3>
 
 <p align="center">
     
