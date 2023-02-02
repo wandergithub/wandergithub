@@ -1,32 +1,36 @@
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Wander Gonzalez</h1>
 
-<p align="justify"> Hi, my name is Wander Gonzalez. I’m a full-stack web development student at Microverse, a full-stack remote Bootcamp that teaches developers to work. With pair programming methodologies and simulating real-world environments throughout team projects and professional skills activities.</p>
+<p align="justify"> Full-Stack Developer with a strong foundation in Ruby on Rails, React.js, and problem-solving. Possess a proven ability to quickly learn and implement new technologies to create dynamic web applications. Adept at delivering functional and visually appealing solutions, with a track record of successful project completion through both pair-programming and remote work environments.</p>
 
--  I’m interested in web programming and all computer science possibilities. 👀
-- I would love to collaborate with you on Web programming or (Python, Verilog, and embedded system programming like STM on C projects) 💞️ .
-- Looking for new opportunities.
+-  I’m interested in web programming innovation.
+- I would love to collaborate with you on Web programming or (Python, Verilog, and embedded system programming like STM on C projects)
+- Looking for new opportunities. 
 
     
-&nbsp;<h3>*Connect with me*:</h3> 
+&nbsp;<h3 align="center">*Connect with me*:</h3> 
 
+<div align="center">
+    
 [<img alt="LinkedIn" width="45px" src="assets/linkedin.svg">](https://www.linkedin.com/in/wander-gonzalez/) &nbsp; 
 [<img alt="Twitter" width="45px" src="assets/twitter.svg">](https://twitter.com/wanderklk1) &nbsp; 
 [<img alt="Gmail" width="45px" src="assets/gmail.svg">](mailto://wandergonzalez0@hotmail.com) &nbsp; 
 [<img alt="Instagram" width="45px" src="assets/insta.svg">](https://www.instagram.com/wander_acg/) &nbsp; 
 [<img alt="Portfolio" width="45px" src="assets/portfolio.svg">](https://wandergithub.github.io/portfolio-simple/) &nbsp;
 [<img alt="Medium" width="45px" src="assets/medium-svgrepo-com.svg">](https://medium.com/@wandergonzalez0) &nbsp; 
+    
+</div>
 
-&nbsp;<h3>*I am practising on:*</h3>
+&nbsp;<h3 align="center">*I am practising on:*</h3>
 
+<div align="center">
+    
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
+    
+</div>
 
+&nbsp;<h3 align="center">*Languagues and tools:*</h3>
 
-&nbsp;<h3>*Languagues and tools:*</h3>
-
-<div style="
-    display: flex;
-    justify-content: space-around;
-">
+<div align="center">
     <img alt="React.js" height="45px" src="assets/react.svg">
     <img alt="Rails" width="45px" src="assets/rails.svg">
     <img alt="javascript" width="45px" src="assets/javascript.svg">
@@ -36,16 +40,18 @@
     <img alt="Redux" width="45px" src="assets/redux.svg">
     <img alt="Jest" width="45px" src="assets/jest.svg">
     <img alt="Rspec" width="45px" src="assets/rspec.svg">
-    
+    <img alt="Git" width="45px" src="assets/git.svg">
 </div>
     
 <br>
 
-<p align="center">&nbsp;
- 
- | Stats | Most used languages |
- | ------ | ------ |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight" alt="wandergithub" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandergithub&show_icons=true&theme=tokyonight&layout=compact&langs_count=15" alt="wandergithub" width="410"/> |
+
+&nbsp;<h3 align="center">*Github stats:*</h3>
+
+<p align="center">
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight" alt="wandergithub" width="500" /> 
+    
 </p>
 
 ---
