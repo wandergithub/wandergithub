@@ -1,22 +1,44 @@
-<h2 align="center">👋  Hi, I’m Wander</h2>
+<h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Wander Gonzalez</h1>
+
 <p align="justify"> Hi, my name is Wander Gonzalez. I’m a full-stack web development student at Microverse, a full-stack remote Bootcamp that teaches developers to work. With pair programming methodologies and simulating real-world environments throughout team projects and professional skills activities.</p>
 
 -  I’m interested in web programming and all computer science possibilities. 👀
 - I would love to collaborate with you on Web programming or (Python, Verilog, and embedded system programming like STM on C projects) 💞️ .
-- Looking for new opportunities, contact me at [![Gmail](https://img.shields.io/badge/-wandergonzalez0@hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto://wandergonzalez0@hotmail.com)](mailto://wandergonzalez0@hotmail.com)&nbsp; 📫 
-- Follow me on social medias: 
-    
-    [![Linkedin Badge](https://img.shields.io/badge/-Wander%20Gonzalez%20Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-gonzalez/)](https://www.linkedin.com/in/wander-gonzalez/)&nbsp;
-    
-    [![Twitter Badge](https://img.shields.io/badge/-@wanderklk1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wanderklk1)](https://twitter.com/wanderklk1)&nbsp;
-- I code for fun:
+- Looking for new opportunities.
 
-    [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
     
+&nbsp;<h3>*Connect with me*:</h3> 
 
-<h3>Languages and tools:</h3>
+[<img alt="LinkedIn" width="45px" src="assets/linkedin.svg">](https://www.linkedin.com/in/wander-gonzalez/) &nbsp; 
+[<img alt="Twitter" width="45px" src="assets/twitter.svg">](https://twitter.com/wanderklk1) &nbsp; 
+[<img alt="Gmail" width="45px" src="assets/gmail.svg">](mailto://wandergonzalez0@hotmail.com) &nbsp; 
+[<img alt="Instagram" width="45px" src="assets/insta.svg">](https://www.instagram.com/wander_acg/) &nbsp; 
+[<img alt="Portfolio" width="45px" src="assets/portfolio.svg">](https://wandergithub.github.io/portfolio-simple/) &nbsp;
+[<img alt="Medium" width="45px" src="assets/medium-svgrepo-com.svg">](https://medium.com/@wandergonzalez0) &nbsp; 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></code><code><img height="20" src="https://img.icons8.com/color/344/css3.png"></code><code><img height="20" src="https://img.icons8.com/color/344/html-5--v1.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+&nbsp;<h3>*I am practising on:*</h3>
+
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
+
+
+&nbsp;<h3>*Languagues and tools:*</h3>
+
+<div style="
+    display: flex;
+    justify-content: space-around;
+">
+    <img alt="React.js" height="45px" src="assets/react.svg">
+    <img alt="Rails" width="45px" src="assets/rails.svg">
+    <img alt="javascript" width="45px" src="assets/javascript.svg">
+    <img alt="postgresql" width="45px" src="assets/postgresql.svg">
+    <img alt="html-5" width="45px" src="assets/html-5.svg">
+    <img alt="CSS 3" width="45px" src="assets/css-3.svg">
+    <img alt="Redux" width="45px" src="assets/redux.svg">
+    <img alt="Jest" width="45px" src="assets/jest.svg">
+    <img alt="Rspec" width="45px" src="assets/rspec.svg">
+    
+</div>
+    
 <br>
 
 <p align="center">&nbsp;
