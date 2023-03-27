@@ -45,14 +45,14 @@
     
 <br>
 
-
+<!-- 
 &nbsp;<h3 align="center">*GitHub stats:*</h3>
 
 <p align="center">
     
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandergithub&show_icons=true&theme=tokyonight" alt="wandergithub" width="500" /> 
     
-</p>
+</p> -->
 
 ---
 
