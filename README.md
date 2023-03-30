@@ -15,7 +15,7 @@
 [<img alt="Twitter" width="45px" src="assets/twitter.svg">](https://twitter.com/wanderklk1) &nbsp; 
 [<img alt="Gmail" width="45px" src="assets/gmail.svg">](mailto://wandergonzalez0@hotmail.com) &nbsp; 
 [<img alt="Instagram" width="45px" src="assets/insta.svg">](https://www.instagram.com/wander_acg/) &nbsp; 
-[<img alt="Portfolio" width="45px" src="assets/portfolio.svg">](https://wandergithub.github.io/portfolio-simple/) &nbsp;
+[<img alt="Portfolio" width="45px" src="assets/portfolio.svg">](https://wander-portfolio.netlify.app/) &nbsp;
 [<img alt="Medium" width="45px" src="assets/medium-svgrepo-com.svg">](https://medium.com/@wandergonzalez0) &nbsp; 
     
 </div>
