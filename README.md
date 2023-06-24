@@ -36,8 +36,10 @@
 
 <div align="center">
     <img alt="React.js" height="45px" src="assets/react.svg">
+    <img alt="Git" width="45px" src="assets/vue.svg">
     <img alt="Rails" width="45px" src="assets/rails.svg">
     <img alt="javascript" width="45px" src="assets/javascript.svg">
+    <img alt="Git" width="45px" src="assets/typescript.svg">
     <img alt="postgresql" width="45px" src="assets/postgresql.svg">
     <img alt="html-5" width="45px" src="assets/html-5.svg">
     <img alt="CSS 3" width="45px" src="assets/css-3.svg">
