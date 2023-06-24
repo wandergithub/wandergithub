@@ -45,7 +45,7 @@
     
 <br>
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 <!-- 
 &nbsp;<h3 align="center">*GitHub stats:*</h3>
