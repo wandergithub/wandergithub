@@ -23,8 +23,12 @@
 &nbsp;<h3 align="center">*I am practicing on:*</h3>
 
 <div align="center">
+
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
     
 ![Metrics](/metrics.plugin.leetcode.svg)
+
+
     
 </div>
 
