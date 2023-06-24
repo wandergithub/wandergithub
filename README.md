@@ -41,8 +41,11 @@
     <img alt="Jest" width="45px" src="assets/jest.svg">
     <img alt="Rspec" width="45px" src="assets/rspec.svg">
     <img alt="Git" width="45px" src="assets/git.svg">
+    
+![Full Yeat](/metrics.plugin.languages.indepth.svg) 
 </div>
     
+
 <br>
 
 <div align="center">
