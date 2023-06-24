@@ -30,9 +30,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           
-          name: Compact display
-          
-      - uses: lowlighter/metrics@latest
+      - name: Compact display
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
