@@ -22,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.94546863429264" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="249.94546863429264" y="0" width="160.850204662156" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="410.79567329644857" y="0" width="38.457660205665796" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="449.2533335021144" y="0" width="10.746666497885565" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.3684179982764" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="267.3684179982764" y="0" width="172.06259025301313" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="439.43100825128954" y="0" width="10.333659283933924" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="449.76466753522345" y="0" width="10.23533246477654" height="8" fill="#B9D9FF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -44,13 +44,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ecdebe" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Roff
+                                Batchfile
                             </div>
                             <small>
-                                <div>2.18k lines</div>
-                                <div>92.4 kB</div>
+                                <div>835 lines</div>
+                                <div>23.2 kB</div>
                             </small>
                         </div>
                     </section>
@@ -70,13 +70,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#B9D9FF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Verilog
+                                AGS Script
                             </div>
                             <small>
-                                <div>821 lines</div>
-                                <div>25.8 kB</div>
+                                <div>1.65k lines</div>
+                                <div>23 kB</div>
                             </small>
                         </div>
                     </section>
