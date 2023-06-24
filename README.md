@@ -24,7 +24,7 @@
 
 <div align="center">
     
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/wandergithub/)](https://leetcode.com/wandergithub/)&nbsp;
+![Metrics](/metrics.plugin.leetcode.svg)
     
 </div>
 
@@ -45,7 +45,12 @@
     
 <br>
 
+<div align="center">
+    
+![Full Yeat](/metrics.plugin.achievements.compact.svg) 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+    
+</div>
 
 <!-- 
 &nbsp;<h3 align="center">*GitHub stats:*</h3>
