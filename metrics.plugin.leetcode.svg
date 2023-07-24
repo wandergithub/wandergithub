@@ -19,36 +19,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.277000358808754 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">104</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2787</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.377284127552848 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">105</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2791</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.88936781609195 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.849354375896702 329"/>
                                     <text x="60" y="50" dominant-baseline="central">59</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/696</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/697</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.336486486486487 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">42</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1480</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.552329507089803 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">43</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1481</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.6153846153846154 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.6101141924959215 329"/>
                                     <text x="60" y="50" dominant-baseline="central">3</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/611</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/613</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x47</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x48</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x27</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x23</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x16</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Generate Parentheses</div>
-                            <div class="date">22 Jul 2023</div>
+                            <div class="title">Daily Temperatures</div>
+                            <div class="date">23 Jul 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Evaluate Reverse Polish Notation</div>
-                            <div class="date">21 Jul 2023</div>
+                            <div class="title">Generate Parentheses</div>
+                            <div class="date">22 Jul 2023</div>
                         </div>
                     </div>
                 </section>
