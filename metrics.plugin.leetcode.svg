@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.755281117972052 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">138</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.182970425739358 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">142</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3077</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.230483271375466 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">60</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.63816604708798 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">62</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1614</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -46,8 +46,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.335285505124451 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">9</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.2986822840409955 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">11</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/683</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -63,15 +63,15 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x63</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x35</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x29</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x64</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x36</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x30</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x25</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x23</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x23</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x21</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x19</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x20</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x18</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x18</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x17</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x17</span></div>
                     </div>
                 </section>
@@ -87,7 +87,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Binary Tree Right Side View</div>
+                            <div class="title">Serialize and Deserialize Binary Tree</div>
                             <div class="date">12 Mar 2024</div>
                         </div>
                     </div>
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Binary Tree Level Order Traversal</div>
-                            <div class="date">11 Mar 2024</div>
+                            <div class="title">Binary Tree Maximum Path Sum</div>
+                            <div class="date">12 Mar 2024</div>
                         </div>
                     </div>
                 </section>
