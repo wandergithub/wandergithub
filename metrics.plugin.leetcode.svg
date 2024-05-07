@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Compare Version Numbers</div>
-                            <div class="date">3 May 2024</div>
+                            <div class="title">Number of Islands</div>
+                            <div class="date">6 May 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Subsets II</div>
-                            <div class="date">2 May 2024</div>
+                            <div class="title">Invert Binary Tree</div>
+                            <div class="date">6 May 2024</div>
                         </div>
                     </div>
                 </section>
