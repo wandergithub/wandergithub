@@ -30,12 +30,12 @@
     
 </div>
 
-&nbsp;<h3 align="center">*Specialization:*</h3>
 
 <div align="center">
-    <img alt="React.js" height="45px" src="assets/react.svg">
+<!--     <img alt="React.js" height="45px" src="assets/react.svg"> -->
+<!-- &nbsp;<h3 align="center">*Specialization:*</h3> -->
 <!--     <img alt="Git" width="45px" src="assets/vue.svg"> -->
-    <img alt="Rails" width="45px" src="assets/rails.svg">
+<!--     <img alt="Rails" width="45px" src="assets/rails.svg"> -->
 <!--     <img alt="javascript" width="45px" src="assets/javascript.svg">
     <img alt="Git" width="45px" src="assets/typescript.svg">
     <img alt="postgresql" width="45px" src="assets/postgresql.svg">
