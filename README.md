@@ -1,10 +1,8 @@
 <h1 align="center">Wander Gonzalez</h1>
 
-<p align="justify"> Full-Stack Developer with a strong foundation in <b>Ruby on Rails</b>, <b>React.js</b>, and <b>problem-solving</b>. Possess a proven ability to quickly learn and implement new technologies to create dynamic web applications. Adept at delivering functional and visually appealing solutions, with a track record of successful project completion through both collaborative and remote work environments.</p>
+<p align="justify"> Hey there! 🌟 As a Full-Stack Developer, I bring a solid foundation in Ruby on Rails and React.js, along with a passion for problem-solving. I love diving into new technologies to create dynamic web applications that really shine. Whether it's collaborating with a team or working remotely, I've got a track record of getting the job done.
 
--  I’m interested in web programming innovation.
-- I would love to collaborate with you on Web programming. Currently developing mainly REACT and RoR
-- Looking for new opportunities. 
+I'm all about pushing the boundaries in web programming and I'm super excited about innovation in this field. I'm currently focusing on React and RoR, and I'm on the lookout for new opportunities to grow and contribute. If you're looking for someone who's enthusiastic, adaptable, and ready to tackle new challenges, let's chat! I'm all ears for any exciting job openings that might be out there. 😊
 
     
 &nbsp;<h3 align="center">*Connect with me*:</h3> 
@@ -31,34 +29,9 @@
 </div>
 
 
-<div align="center">
-<!--     <img alt="React.js" height="45px" src="assets/react.svg"> -->
-<!-- &nbsp;<h3 align="center">*Specialization:*</h3> -->
-<!--     <img alt="Git" width="45px" src="assets/vue.svg"> -->
-<!--     <img alt="Rails" width="45px" src="assets/rails.svg"> -->
-<!--     <img alt="javascript" width="45px" src="assets/javascript.svg">
-    <img alt="Git" width="45px" src="assets/typescript.svg">
-    <img alt="postgresql" width="45px" src="assets/postgresql.svg">
-    <img alt="html-5" width="45px" src="assets/html-5.svg">
-    <img alt="CSS 3" width="45px" src="assets/css-3.svg">
-    <img alt="Redux" width="45px" src="assets/redux.svg">
-    <img alt="Jest" width="45px" src="assets/jest.svg">
-    <img alt="Rspec" width="45px" src="assets/rspec.svg">
-    <img alt="Git" width="45px" src="assets/git.svg"> -->
-    
-![Full Yeat](/metrics.plugin.languages.indepth.svg) 
-</div>
-    
+
 
 <br>
-
-<div align="center">
-    
-![Full Yeat](/metrics.plugin.achievements.compact.svg) 
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-    
-</div>
-
 <!-- 
 &nbsp;<h3 align="center">*GitHub stats:*</h3>
 
