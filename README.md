@@ -1,8 +1,8 @@
 <h1 align="center">Wander Gonzalez</h1>
 
-<p align="justify"> Hey there! 🌟 As a Full-Stack Developer, I bring a solid foundation in Ruby on Rails and React.js, along with a passion for problem-solving. I love diving into new technologies to create dynamic web applications that really shine. Whether it's collaborating with a team or working remotely, I've got a track record of getting the job done.
+<p align="justify"> Hey there! 🌟 I am a junior Full-Stack Developer, I currently build with Ruby on Rails and React.js but I've been exposed to multiple tech stacks and areas. Since I started with microcontrollers in college I believe strong basics are one of my key strengths when considering me as a candidate, along with a passion for problem-solving. I love tech. Believe I will give my all on any opportunity given to grow and return value. I got a track record of getting the job done.
 
-I'm all about pushing the boundaries in web programming and I'm super excited about innovation in this field. I'm currently focusing on React and RoR, and I'm on the lookout for new opportunities to grow and contribute. If you're looking for someone who's enthusiastic, adaptable, and ready to tackle new challenges, let's chat! I'm all ears for any exciting job openings that might be out there. 😊
+I'm all about honesty and hard work. I'm currently focusing on getting valuable skills through expertise building, and I'm on the lookout for new opportunities to grow and contribute. If you're looking for someone enthusiastic, adaptable, and ready to tackle new challenges, let's chat! I'm all ears for any exciting job openings that might be out there. 😊
 
     
 &nbsp;<h3 align="center">*Connect with me*:</h3> 
