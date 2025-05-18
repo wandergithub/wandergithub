@@ -1,8 +1,10 @@
 <h1 align="center">Wander Gonzalez</h1>
 
-<p align="justify"> Hey there! 🌟 I am a junior Full-Stack Developer, I currently build with Ruby on Rails and React.js but I've been exposed to multiple tech stacks and areas. Since I started with microcontrollers in college I believe strong basics are one of my key strengths when considering me as a candidate, along with a passion for problem-solving. I love tech. Believe I will give my all on any opportunity given to grow and return value. I got a track record of getting the job done.
-
-I'm all about honesty and hard work. I'm currently focusing on getting valuable skills through expertise building, and I'm on the lookout for new opportunities to grow and contribute. If you're looking for someone enthusiastic, adaptable, and ready to tackle new challenges, let's chat! I'm all ears for any exciting job openings that might be out there. 😊
+<p align="justify"> Main current role: Radio Frequency technitian
+Yes, I can:
+- Write code for scripting/automation, games, web, and much more.
+- Do electronics and Radio Frequency electronics, PLC, Arduino, and... More stuff.
+- Currently trying to get into more... stuff(Electrical Engineering).
 
     
 &nbsp;<h3 align="center">*Connect with me*:</h3> 
