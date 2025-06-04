@@ -1,10 +1,10 @@
 <h1 align="center">Wander Gonzalez</h1>
 
-<p align="justify"> Main current role: Radio Frequency technitian
-Yes, I can:
-- Write code for scripting/automation, games, web, and much more.
-- Do electronics and Radio Frequency electronics, PLC, Arduino, and... More stuff.
-- Currently trying to get into more... stuff(Electrical Engineering).
+<p align="justify"> <br>Currently working as: Radio Frequency technitian
+<br>I can:<br>
+- Write code for scripting/automation, games, web, and much more.<br>
+- Do electronics and Radio Frequency electronics, PLC, Arduino, and... More stuff.<br>
+- Running for: 👨‍🎓📖 (Electrical Engineering).<br>
 
     
 &nbsp;<h3 align="center">*Connect with me*:</h3> 
